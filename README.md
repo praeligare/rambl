@@ -1,2 +1,2 @@
 # rambl
-An extension of your brain, a click away. For creatives.
+No pen? No paper? We got you covered.
